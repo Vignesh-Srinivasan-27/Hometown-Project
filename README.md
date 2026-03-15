@@ -12,7 +12,7 @@ This is a static front-end project built as part of my web development learning 
 
 ## 🌐 Live Demo
 
-link
+🔗 [https://hometown-salem.netlify.app/](https://hometown-salem.netlify.app/)
 
 ---
 
@@ -34,6 +34,7 @@ link
 ---
 
 ## 📁 Project Structure
+
 ```
 visit-salem/
 ├── index.html
@@ -61,9 +62,9 @@ visit-salem/
 ## 🚀 Getting Started
 
 1. Clone the repository
-```bash
+   ```bash
    git clone https://github.com/yourusername/visit-salem.git
-```
+   ```
 2. Open `index.html` in your browser — no build tools needed.
 
 ---
